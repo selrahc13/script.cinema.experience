@@ -2,7 +2,7 @@
 
 # constants
 __script__ = "Cinema Experience"
-__author__ = "nuka1195-giftie-ackbarr"
+__author__ = "nuka1195-giftie-ackbarr-selrahc"
 __url__ = "https://github.com/Giftie/script.cinema.experience"
 __version__ = "2.0.57"
 __scriptID__ = "script.cinema.experience"
@@ -69,6 +69,10 @@ ce_pause_time = float( 2.5 )
 __builtin__.slide_settings = {  "trivia_total_time": int( float( _S_( "trivia_total_time" ) ) ),
                                     "trivia_folder": xbmc.translatePath( _S_( "trivia_folder" ) ),
                                 "trivia_slide_time": int( float( _S_( "trivia_slide_time" ) ) ),
+                                "trivia_slide_time_a": int( float( _S_( "trivia_slide_time_a" ) ) ),
+                                "trivia_slide_time_q": int( float( _S_( "trivia_slide_time_q" ) ) ),
+                                "trivia_slide_time_s": int( float( _S_( "trivia_slide_time_s" ) ) ),
+                                "trivia_slide_time_c": int( float( _S_( "trivia_slide_time_c" ) ) ),
                                      "trivia_intro": _S_( "trivia_intro" ),
                                      "trivia_music": _S_( "trivia_music" ),
                              "trivia_adjust_volume": _S_( "trivia_adjust_volume" ),

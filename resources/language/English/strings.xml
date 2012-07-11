@@ -61,6 +61,10 @@
     <string id="32216">Movie Quiz Script Question Limit</string>
     <string id="32217">Movie Quiz Script Mode</string>
     <string id="32220">- Show each Slide for(in Seconds)</string>
+    <string id="32292">- Show each Question Slide for(in Seconds)</string>
+    <string id="32293">- Show each Answer Slide for(in Seconds)</string>
+    <string id="32294">- Show each Clue Slide for(in Seconds)</string>
+    <string id="32295">- Show each Still Slide for(in Seconds)</string>
     <string id="32221">5 sec</string>
     <string id="32222">10 sec</string>
     <string id="32223">15 sec</string>
